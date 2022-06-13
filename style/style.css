@@ -89,16 +89,6 @@ a {
   transition: all 0.3s ease;
 }
 
-/* .cards__item > i:hover {
-  font-size: 35px;
-  color: #F24E1E;
-} */
-
-/* .cards__item:hover {
-  transform: scale(1.1);
-  box-shadow: 0px 6px 5px rgba(0, 0, 0, 0.24), 0px 9px 18px rgba(0, 0, 0, 0.18);
-} */
-
 .hide {
   visibility: hidden;
 }
