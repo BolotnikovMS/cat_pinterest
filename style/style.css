@@ -27,6 +27,7 @@ a {
 
 .nav__item {
   padding: 23px;
+  transition: all 0.3s ease;
 }
 
 .nav__item:hover {
